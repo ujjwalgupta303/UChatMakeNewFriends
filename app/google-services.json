@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "366712565572",
+    "firebase_url": "https://uchatmakenewfriends.firebaseio.com",
+    "project_id": "uchatmakenewfriends",
+    "storage_bucket": "uchatmakenewfriends.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366712565572:android:3e119a2004f9a532",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.uchatmakenewfriends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366712565572-r6nl0q242abd31a2m086t28ll7ois25b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.uchatmakenewfriends",
+            "certificate_hash": "68da30a50c43eca93a845c2ccc31950fc63e3a55"
+          }
+        },
+        {
+          "client_id": "366712565572-n9mdathun80q6spoo9evisp3ppqep4c8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF9RVmwx2R6Qi1PTJ3vi_-Ipw2MP3uTq0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366712565572-n9mdathun80q6spoo9evisp3ppqep4c8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
